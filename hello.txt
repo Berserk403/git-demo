@@ -1,13 +1,5 @@
 update by pull request
 update by test ssh
-testtest3
-hello world! hello git
-hello world! hello git
-hello world! hello git
-hello world! hello git
-hello world! hello git
-hello world! hello git
-hello world! hello git
 hello world! hello git
 hello world! hello git
 hello world! hello git
